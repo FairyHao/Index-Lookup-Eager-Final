@@ -1,0 +1,82 @@
+read file time:18625
+0th result count:1456
+query time:32
+1th result count:18349
+query time:109
+2th result count:26611
+query time:141
+3th result count:5753
+query time:31
+4th result count:1033
+query time:16
+5th result count:59355
+query time:171
+6th result count:6
+query time:16
+7th result count:521
+query time:125
+8th result count:1563
+query time:47
+9th result count:209
+query time:0
+10th result count:1456
+query time:31
+11th result count:18349
+query time:94
+12th result count:26611
+query time:141
+13th result count:5753
+query time:46
+14th result count:1033
+query time:16
+15th result count:59355
+query time:156
+16th result count:6
+query time:16
+17th result count:521
+query time:141
+18th result count:1563
+query time:46
+19th result count:209
+query time:0
+20th result count:1456
+query time:16
+21th result count:18349
+query time:109
+22th result count:26611
+query time:141
+23th result count:5753
+query time:47
+24th result count:1033
+query time:0
+25th result count:59355
+query time:171
+26th result count:6
+query time:16
+27th result count:521
+query time:125
+28th result count:1563
+query time:47
+29th result count:209
+query time:16
+30th result count:1456
+query time:15
+31th result count:18349
+query time:94
+32th result count:26611
+query time:141
+33th result count:5753
+query time:46
+34th result count:1033
+query time:16
+35th result count:59355
+query time:172
+36th result count:6
+query time:16
+37th result count:521
+query time:125
+38th result count:1563
+query time:46
+39th result count:209
+query time:0
+all time2734

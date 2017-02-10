@@ -1,0 +1,66 @@
+read file time:203
+0th result count:3
+query time:0
+1th result count:1
+query time:0
+2th result count:2
+query time:0
+3th result count:1
+query time:0
+4th result count:10
+query time:0
+5th result count:5
+query time:0
+6th result count:3
+query time:0
+7th result count:3
+query time:0
+8th result count:333
+query time:16
+9th result count:436
+query time:16
+10th result count:1
+query time:15
+11th result count:1
+query time:16
+12th result count:5
+query time:0
+13th result count:25
+query time:0
+14th result count:4
+query time:0
+15th result count:21
+query time:0
+16th result count:3
+query time:16
+17th result count:4
+query time:0
+18th result count:10
+query time:0
+19th result count:3
+query time:0
+20th result count:1
+query time:0
+21th result count:4
+query time:0
+22th result count:4
+query time:0
+23th result count:1
+query time:0
+24th result count:5
+query time:0
+25th result count:1
+query time:0
+26th result count:1
+query time:0
+27th result count:3
+query time:0
+28th result count:4
+query time:15
+29th result count:2
+query time:0
+30th result count:1
+query time:0
+31th result count:1
+query time:0
+all time94
